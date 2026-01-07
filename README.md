@@ -10,4 +10,5 @@ Nice! [Here](https://github.com/safety-research/persona_vectors) is a repo on th
 
 I get the read that Bloom evolved out of Persona Vectors, suggesting maybe this is where I need to start. 
 
+Both Gemini and Claude thinks Bloom is a better place to start, so yeah, gonna pivot to this.
 

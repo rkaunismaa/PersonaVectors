@@ -8,3 +8,5 @@ I had to add a few more libraries to the environment before I was able to run th
 2. uv pip install scikit-learn
 3. uv pip install transformers
 
+Wow. Seems like Bloom is the way to go, so Claude generated 
+
