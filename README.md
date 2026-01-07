@@ -12,3 +12,5 @@ I get the read that Bloom evolved out of Persona Vectors, suggesting maybe this 
 
 Both Gemini and Claude thinks Bloom is a better place to start, so yeah, gonna pivot to this.
 
+
+
