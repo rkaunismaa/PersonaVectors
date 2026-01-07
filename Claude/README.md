@@ -8,5 +8,7 @@ I had to add a few more libraries to the environment before I was able to run th
 2. uv pip install scikit-learn
 3. uv pip install transformers
 
-Wow. Seems like Bloom is the way to go, so Claude generated 
+Wow. Seems like Bloom is the way to go, so Claude generated.
+
+So I then poined Claude towards the [persona repo](https://github.com/safety-research/persona_vectors) and it completely re-wrote the original 'Bloom + Persona Vectors Integration for Llama 3.1.py', which I downloaded into 'bloom_persona_integration.py', so I am gonna try to run this code to see what it does. 
 
