@@ -2,6 +2,12 @@
 
 Exploring Persona Vectors
 
+## Sunday, January 11, 2026
+
+I am going to stay focused on the numerous repos found at [Safety Research](https://github.com/safety-research). So yeah, I started with [Persona Vectors](https://github.com/safety-research/persona_vectors), the other repos also look very interesting.
+
+So today, gonna get back to [Persona Vectors](https://github.com/safety-research/persona_vectors) to try to understand what this is about, starting with [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)
+
 ## Thursday, January 8, 2026
 
 Gonna create a .bloom environment to just focus on bloom and what it offers. 
