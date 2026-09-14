@@ -2,6 +2,10 @@
 
 Exploring Persona Vectors
 
+## Monday, September 14, 2026
+
+Yeah, it's been a while,right?! Gonna actually this time dig into this stuff!
+
 ## Sunday, January 11, 2026
 
 I am going to stay focused on the numerous repos found at [Safety Research](https://github.com/safety-research). So yeah, I started with [Persona Vectors](https://github.com/safety-research/persona_vectors), the other repos also look very interesting.
